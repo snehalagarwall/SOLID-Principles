@@ -11,7 +11,13 @@
         <module name="Single_responsibility" />
         <module name="Open_Closed_principle" />
         <module name="Dependency_Inversion" />
+        <module name="Custom_Annotation" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Custom_Annotation" options="-parameters" />
+    </option>
   </component>
 </project>

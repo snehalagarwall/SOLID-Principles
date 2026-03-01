@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Liskov_Substitution_Principle/pom.xml" />
         <option value="$PROJECT_DIR$/Interface_Segregation_Principle/pom.xml" />
         <option value="$PROJECT_DIR$/Dependency_Inversion/pom.xml" />
+        <option value="$PROJECT_DIR$/Custom_Annotation/pom.xml" />
       </list>
     </option>
   </component>
